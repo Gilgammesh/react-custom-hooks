@@ -18,4 +18,5 @@ const [formValues, handleInputChange, resetForm] = useForm(initialForm);
 ```
 ### Métodos
 formValues  ==>  Objeto con los valores del formulario actual  
-handleInputChange ==>  Función que cambia los estados de los inputs del formulario  resetForm ==>  Función que resetea los estados de los inputs a sus valores iniciales
+handleInputChange ==>  Función que cambia los estados de los inputs del formulario  
+resetForm ==>  Función que resetea los estados de los inputs a sus valores iniciales
