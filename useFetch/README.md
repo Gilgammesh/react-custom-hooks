@@ -14,6 +14,6 @@ const {data, loading, error} = useFetch(url);
 ```
 
 ### Métodos
-data  ==>  Objeto en JSON de la respuesta obtenida del endpoint o api  
-loading  ==>  Estado que indica la obtención de la data (true: "cargando", false: "listo")  
-error  ==>  Mensaje que se obtiene si hubiese un problema al obtener la data
+data  ==>  Objeto en JSON de la respuesta obtenida del endpoint o api        
+loading  ==>  Estado que indica la obtención de la data (true: "cargando", false: "listo")        
+error  ==>  Mensaje que se obtiene si hubiese un problema al obtener la data         

@@ -15,7 +15,7 @@ const [counter, increment, decrement, reset] = useCounter(valorInicial);
 
 ### Métodos
 
-counter ==> Valor actual del contador  
-increment ==> Función que incrementa el counter actual en un valor  
-decrement ==> Función que drecementa el counter actual en un valor  
-reset ==> Función que reinicia el valor del contador a su estado inicial
+counter ==> Valor actual del contador       
+increment ==> Función que incrementa el counter actual en un valor      
+decrement ==> Función que drecementa el counter actual en un valor       
+reset ==> Función que reinicia el valor del contador a su estado inicial      
