@@ -1,3 +1,3 @@
 # Notas
 
-Repositorio que contiene varios customHooks para ayudar en la automatización de los proyectos.
+Repositorio que contiene varios Hooks personalizados, para ayudar a los desarrolladores en la automatización y agilización sde los proyectos.

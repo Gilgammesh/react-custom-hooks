@@ -15,10 +15,5 @@ export const useCounter = (initialCounter = 1) => {
     setCounter(initialCounter);
   };
 
-  return {
-    counter,
-    increment,
-    decrement,
-    reset,
-  };
+  return [counter, increment, decrement, reset];
 };
