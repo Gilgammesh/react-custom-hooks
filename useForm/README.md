@@ -5,15 +5,15 @@ Hook personalizado para almacenar los valores escritos en los inputs de un formu
 ## Ejemplo
 
 ```
-    // Valores iniciales del formulario
-    const initialForm = {
-        nombres: '',
-        apellidos: '',
-        email: ''
-    };
+// Valores iniciales del formulario
+const initialForm = {
+    nombres: '',
+    apellidos: '',
+    email: ''
+};
 
-	// Llamada del hook y métodos
-    const [formValues, handleInputChange, resetForm] = useForm(initialForm);
+// Llamada del hook y métodos
+const [formValues, handleInputChange, resetForm] = useForm(initialForm);
 
 ```
 ### Métodos

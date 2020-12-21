@@ -5,11 +5,11 @@ Hook personalizado para contar un valor de forma positiva (incrementando) o de f
 ## Ejemplo
 
 ```
-    // Valor inicial del conteo
-    const valorInicial = 1;
+// Valor inicial del conteo
+const valorInicial = 1;
 
-	// Llamada del hook y métodos
-    const [counter, increment, decrement, reset] = useCounter(valorInicial);
+// Llamada del hook y métodos
+const [counter, increment, decrement, reset] = useCounter(valorInicial);
 
 ```
 
